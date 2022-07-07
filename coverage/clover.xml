@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1657218546304" clover="3.2.0">
+  <project timestamp="1657218546305" name="All files">
+    <metrics statements="27" coveredstatements="23" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="4" elements="32" coveredelements="27" complexity="0" loc="27" ncloc="27" packages="1" files="1" classes="1"/>
+    <file name="requestData.js" path="/Volumes/Macintosh HD/JETS/TEST_API_BOOKIN/test/helper/requestData.js">
+      <metrics statements="27" coveredstatements="23" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="4"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="25" count="1" type="stmt"/>
+      <line num="26" count="0" type="stmt"/>
+      <line num="37" count="0" type="stmt"/>
+      <line num="47" count="0" type="stmt"/>
+      <line num="48" count="0" type="stmt"/>
+      <line num="55" count="1" type="stmt"/>
+      <line num="56" count="2" type="stmt"/>
+      <line num="61" count="2" type="stmt"/>
+      <line num="62" count="1" type="stmt"/>
+      <line num="67" count="1" type="stmt"/>
+      <line num="68" count="1" type="stmt"/>
+      <line num="73" count="1" type="stmt"/>
+      <line num="82" count="1" type="stmt"/>
+      <line num="83" count="1" type="stmt"/>
+      <line num="88" count="1" type="stmt"/>
+      <line num="89" count="1" type="stmt"/>
+      <line num="90" count="1" type="stmt"/>
+      <line num="101" count="1" type="stmt"/>
+      <line num="102" count="1" type="stmt"/>
+      <line num="108" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

@@ -1,0 +1,35 @@
+{
+  "name": "test_api_bookin",
+  "version": "1.0.0",
+  "description": "test_api",
+  "main": "app.js",
+  "scripts": {
+    "test": "cross-env NODE_ENV=test jest --silent --coverage --runInBand",
+    "test:watch": "cross-env NODE_ENV=test jest --coverage --watch --silent --runInBand"
+  },
+  "author": "lbatres",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "faker": "^5.5.3",
+    "form-data": "^4.0.0",
+    "https": "^1.0.0",
+    "node-fetch": "^3.2.6",
+    "nodemon": "^2.0.19",
+    "request": "^2.88.2",
+    "unirest": "^0.6.0"
+  },
+  "devDependencies": {
+    "jest": "^28.1.2",
+    "supertest": "^6.2.4"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "coveragePathIgnorePatterns": [
+      "/node_modules/"
+    ],
+    "coverageReportes": ["json", "html"]
+  }
+}
